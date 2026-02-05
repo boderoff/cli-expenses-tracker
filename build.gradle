@@ -2,9 +2,12 @@ plugins {
     id 'java'
 }
 
-group = 'io.project'
-version = '1.0-SNAPSHOT'
+group = 'com.ledgerlite'
+version = '1.0.0'
 
+application {
+    mainClass.set("com.ledgerlite.app.LedgerLiteApp")
+}
 repositories {
     mavenCentral()
 }
