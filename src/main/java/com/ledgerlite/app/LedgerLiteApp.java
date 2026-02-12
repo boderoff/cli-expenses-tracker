@@ -14,8 +14,6 @@ import com.ledgerlite.util.DateParser;
 import com.ledgerlite.util.MoneyParser;
 
 import java.time.LocalDate;
-import java.time.YearMonth;
-import java.util.Locale;
 import java.util.Scanner;
 import java.util.UUID;
 

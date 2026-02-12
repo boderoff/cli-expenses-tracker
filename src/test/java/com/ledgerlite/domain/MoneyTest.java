@@ -1,9 +1,10 @@
-package test.java.com.ledgerlite.domain;
+package com.ledgerlite.domain;
 
-import main.java.com.ledgerlite.domain.Money;
 import org.junit.jupiter.api.Test;
+
 import java.math.BigDecimal;
 import java.util.Currency;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class MoneyTest {
